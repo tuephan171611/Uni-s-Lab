@@ -1,0 +1,4 @@
+MVC:model : Luu tru nhung cai thuc the(entity)
+view: hien thi ra man hinh cho nguoi dung
+controllerr: tinh toan
+java doc: shift 8 8
